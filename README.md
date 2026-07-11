@@ -1,1 +1,1 @@
-# mastodoc
+MASTODOC.md

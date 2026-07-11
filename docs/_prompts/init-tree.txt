@@ -1,0 +1,8 @@
+Act as a Principal Architect and Technical Writer. I have already established the documentation rules in `docs/00-META-ARCHITECTURE.md` and provided a template at `docs/_templates/feature-branch.md`. 
+
+Your task is to analyze this entire codebase and generate the documentation tree.
+
+1. Analyze the codebase to identify the primary domains, features, and algorithms.
+2. For every major feature, create a new Markdown file inside `docs/features/`. You MUST use the exact format specified in `docs/_templates/feature-branch.md`. 
+3. Link the "Leaves" section of those templates directly to the relative file paths of the actual code.
+4. Finally, generate `docs/README.md` as the Root. Create a highly scannable table of contents that links to every feature file you just created.
