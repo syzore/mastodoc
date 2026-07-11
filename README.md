@@ -8,7 +8,7 @@
 
 ## Why Mastodoc?
 
-Traditional documentation rots. It drifts away from the codebase the moment a refactor happens. Mastodoc solves this by treating documentation as a **first-class citizen**—a living knowledge graph maintained by your AI agents during every commit.
+Keeping clean and precise documentation is a drag, and any dev who likes doing it a liar. It drifts away from the codebase the moment a refactor happens. And it is always missing something. Mastodoc is a set of skills and tools for your agents that tells them how and when to update the docs. It will make sure the agents use the Mastodoc docs system to gather context faster without wondering around the codebase every new chat you open. And will also make sure the agents document YOUR train of thought and decision put into every part of the code, so without any worry you can remember why you did that thing you did 3 months ago.
 
 ## The 3-Level Hierarchy
 
