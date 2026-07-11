@@ -1,4 +1,4 @@
-# 🦣 Mastodoc
+# 🦣 Masto-doc
 
 *Skill-based, agentic documentation architecture.*
 
